@@ -1,0 +1,19 @@
+{
+  "name": "pcatpatika",
+  "version": "1.0.0",
+  "description": "\"# PCAT\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyhanozgurz/PCAT.git"
+  },
+  "author": "seyhan ozgur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyhanozgurz/PCAT/issues"
+  },
+  "homepage": "https://github.com/seyhanozgurz/PCAT#readme"
+}
